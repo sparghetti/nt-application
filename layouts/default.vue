@@ -58,7 +58,7 @@
       <v-list-item two-line>
         <v-list-item-content>
           <v-list-item-title><u>{{title}}</u></v-list-item-title>
-          <v-list-item-subtitle>Code : CS632010021</v-list-item-subtitle>
+          <v-list-item-subtitle>Code : CS6320100210</v-list-item-subtitle>
         </v-list-item-content>
       </v-list-item>
 <!--     <div class="d-flex flex-column">-->
